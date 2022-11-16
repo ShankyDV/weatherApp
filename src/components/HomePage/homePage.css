@@ -1,0 +1,15 @@
+.home-page{
+    display: grid;
+    flex-direction: column;
+    padding: 10px;
+
+}
+.countries-div{
+    padding: 5px;
+    cursor: pointer;
+    font-weight:500;  
+    font-size:18px;
+}
+.countries-div :hover{
+    box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

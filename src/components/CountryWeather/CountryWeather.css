@@ -1,0 +1,24 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.weather-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    
+}
+.card-weather{
+    width:500px;
+}
+.card{
+    font-weight: 500;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.text{
+    font-weight: 500;
+    font-size: 20px;
+}
